@@ -25,7 +25,8 @@ Features
 
 Project Structure
 
-.
+docker-based-c-build-automation/
+│
 ├── main.c        # Main program (CLI interface and logic)
 ├── add.c         # Implementation of operations
 ├── add.h         # Function declarations
