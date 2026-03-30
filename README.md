@@ -25,14 +25,26 @@ Features
 
 Project Structure
 
-File Name| Description
-main.c| Main program with CLI interface and logic
-add.c| Implementation of arithmetic operations
-add.h| Function declarations
-Makefile| Build automation using make
-build.sh| Script to automate build and execution
-Dockerfile| Defines container environment and setup
-README.md| Project documentation
+- main.c
+  Main program containing CLI logic and user interaction
+
+- add.c
+  Implementation of arithmetic operations
+
+- add.h
+  Function declarations for modular structure
+
+- Makefile
+  Automates compilation using GCC
+
+- build.sh
+  Bash script to build and run the project
+
+- Dockerfile
+  Defines the container environment and setup
+
+- README.md
+  Project documentation
 
 ---
 
