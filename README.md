@@ -25,15 +25,14 @@ Features
 
 Project Structure
 
-docker-based-c-build-automation/
-│
-├── main.c        # Main program (CLI interface and logic)
-├── add.c         # Implementation of operations
-├── add.h         # Function declarations
-├── Makefile      # Build automation
-├── build.sh      # Script to automate build and run
-├── Dockerfile    # Container configuration
-├── README.md     # Project documentation
+File Name| Description
+main.c| Main program with CLI interface and logic
+add.c| Implementation of arithmetic operations
+add.h| Function declarations
+Makefile| Build automation using make
+build.sh| Script to automate build and execution
+Dockerfile| Defines container environment and setup
+README.md| Project documentation
 
 ---
 
